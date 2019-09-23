@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AACI,OACI,WAAW,CACX,kBAAkB,CAClB,UAAU,CACV,WAAW,CACX,cAAe,CACf,iBACJ","file":"16.840a0ac0.chunk.css","sourcesContent":[" \r\n    .excel{\r\n        height:30px;\r\n        background:#1890ff;\r\n        color:#fff;\r\n        border:none;\r\n        padding: 0 10px;\r\n        border-radius: 4px\r\n    }"]}
